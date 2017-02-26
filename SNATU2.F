@@ -1,0 +1,6 @@
+  SUBROUTINE USER
+**************************************************
+  DOUBLE PRECISION TITLE
+  LOGICAL LSOVE,LPRINT,LBLK,LSTOP
+  COMMIN F(72,72,10),P(72,72),RHO(72,72),GAM(72,72)
+ &  AIP
